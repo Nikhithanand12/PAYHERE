@@ -1,2 +1,2 @@
-# PAYHERE
-A Ecommerce WebApp that is fully Responsive with Stripe Payment
+# SHOPHERE
+A Ecommerce WebApp that is fully responsive with cart features
